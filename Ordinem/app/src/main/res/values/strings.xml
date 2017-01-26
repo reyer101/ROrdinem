@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">Ordinem</string>
     <string name="chapman">CHAPMAN UNIVERSITY</string>
+    <string name="profile">Select Profile Picture</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="account">Create Account</string>
+    <string name="first">First Name</string>
+    <string name="last">Last Name</string>
+    <string name="id">Student ID</string>
+    <string name="school">School</string>
+    <string name="email">School Email</string>
+    <string name="pass">Password</string>
+    <string name="verify">Verify Password</string>
 </resources>
